@@ -16,6 +16,7 @@ EditText txtnombre, txtapellido;
 Button btnmostrar;
     Button btnmostrar33;
 
+    // Este es una prueba.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
